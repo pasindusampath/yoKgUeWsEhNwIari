@@ -1,0 +1,17 @@
+Comparison Summary:
+
+MORSE VS SPECTROGRAPH
+
+MORSE:
++ Universal, can be tapped or tonal
++ Easily decoded with manual skill
+- Obvious if listener is trained
+
+SPECTROGRAPH:
++ Hidden in frequency domain
++ Cannot be detected casually
+- Requires playback speed modulation
+- Not portable (requires visual tools)
+
+Noted anomaly: When reversing spectro recording of “Naanae naan unnai”, faint trace appeared at 3.7s mark.
+

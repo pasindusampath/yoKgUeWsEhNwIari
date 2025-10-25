@@ -1,0 +1,15 @@
+Only one stream is unlocked. The rest are secured with a passkey.
+
+ACTIVE FEED: http://[IP ADDRESS]
+
+LOGIN DETAILS:
+--------------
+USERNAME: antariksa
+PASSWORD: ??????
+
+########################
+# NOTE: Be careful     #
+# If you are connected #
+# for too long         #
+# they will find you.  #
+########################

@@ -1,0 +1,19 @@
+DATE: 1994-12-19
+
+CRT TV (National model, 1984) modified:
+
+- Removed vertical deflection coil, rerouted to audio signal input.
+
+- Used modified amplifier to stabilise voltage across horizontal deflection.
+
+Now the screen shows:
+
+- Left/Right channel waveforms.
+
+- Some Lissajous curves when mixing inputs.
+
+Warning:
+High voltage risk during open operation. Unshielded tube exposed.
+Only activate in isolation. Use gloves.
+
+Next step: Build waveform keyboard.

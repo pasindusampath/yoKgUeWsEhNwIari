@@ -1,0 +1,19 @@
+DATE: 1994-12-01
+
+Old Casio keyboard modified.
+
+Removed tone ROM and rewired key matrix to send direct frequency pulses into audio encoder (via DIN port). Keys now output pure sine tones in specific frequency band (200Hz–2kHz).
+
+Added:
+
+- Further tonal distortion in the frequency. This make the audible sound difficult to decipher. 
+
+- Keyboard output connected directly to the CRT.
+
+Notes:
+
+- Chord patterns will confuse the decoding. Single keys are clear at the moment.
+
+- My team enjoys playing with it. They ask me what the symbols mean. Everyone will know, one day. 
+
+- Recorded a 5 note sequence to tape.

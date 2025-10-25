@@ -1,0 +1,9 @@
+DATE: 1995-03-09
+
+My intuition was right. Someone is watching the our abandoned site.
+
+They’ve deployed a camera system; must be experimental. Black and white, must have infrared sensors. I traced it and unmasked the IP.
+
+They have blocked access to it. 
+
+Y

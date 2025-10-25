@@ -1,0 +1,14 @@
+DATE: 1994-12-05
+
+Objective: Encrypt simple text using tonal sequences.
+Method: Assigned alphanumeric characters to sine wave tones (A = 220Hz, B = 233Hz… etc.). Used oscillator to record pulses to magnetic tape. Played back through media player to decode.
+
+Findings:
+
+Worked well in isolated conditions.
+
+Tape noise interferes at low volume.
+
+Morse is more stable for simple transmission, but tonal mapping allows for more creative encoding.
+
+Possible Use: Add error-correction by repeating harmonic overtones at regular intervals.

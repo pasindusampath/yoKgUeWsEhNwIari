@@ -1,0 +1,32 @@
+Location: Room 14, East Block, Moratuwa (modified into private lab)
+
+
+
+|     .-.
+|    /   \         .-.
+|   /     \       /   \       .-.     .-.     _   _
++--/-------\-----/-----\-----/---\---/---\---/-\-/-\/\/---
+| /         \   /       \   /     '-'     '-'
+|/           '-'         '-'
+
+
+.-- . / .- .-. . / --- -. . .-- . / .- .-. . / --- -. .
+
+
+Test Method 003: Morse code embedded in reversed sine wave harmonics
+Result: Audible to trained ear. Masked by tonal background.
+
+Test Method 005: Message layered beneath tabla loop, spectrogram reveals patterns if slowed 4x.
+
+Current Hypothesis: Pitch alone is insufficient. Time + harmonic modulation required.
+
+Tools:
+- 4-track reel recorder
+- DIY oscillator (old university build)
+- Microphone + metal cone resonator
+
+Next step: Transmit encoded message via shortwave radio 6.2 MHz.
+Need to test clarity under distortion.
+
+
+-Y

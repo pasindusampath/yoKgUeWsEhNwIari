@@ -1,0 +1,20 @@
+Composite Material Notes Research Phase 1
+-----------------------------------------
+
+Hypothesis: Layered natural fibre + synthetic rubber = improved acoustic dampening.
+
+Sample Structure:
+- Outer Shell: Fibreglass (marine grade)
+- Inner Layer 1: Organic jute mesh
+- Middle Layer: Rubberised latex compound
+- Inner Layer 2: Foam resin core
+
+Sound absorption at 300Hz: 58% (Trial A)
+Next phase: Testing for water resistance, pressure tolerance.
+
+        |_
+   _____|o |____
+  (  --         ~~~~--_,
+   ~~~~~~~~~~~~~~~~~~~'` 
+
+Could this tech be used on something... invisible?

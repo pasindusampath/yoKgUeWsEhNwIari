@@ -1,0 +1,20 @@
+DATE: 1994-12-19
+
+Experiment: Embedding grayscale image data into an audio spectrogram.
+Steps:
+
+Converted .bmp to raw byte array (values 0–255).
+
+Mapped brightness to frequency and time (vertical = pitch, horizontal = time).
+
+Rendered a 2-second .wav file using custom BASIC script.
+
+Played file and viewed waveform through oscilloscope (CRT mod).
+
+Results:
+
+- Visual patterns appear faintly.
+
+- Fine detail lost in low frequencies.
+
+Viewing via CRT tube gives clearer outlines than analog scope.

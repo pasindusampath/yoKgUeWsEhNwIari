@@ -1,0 +1,20 @@
+              ___
+             /   |  
+   ,--------'    '--------..._,.
+  (                          _--+
+   `----------------------''' `'
+
+
++---------------------------+ <- Outer Hull (Fibreglass)
+|         |||||||          |
+|         JUTE MESH        | <- Dampening Layer
+|---------------------------|
+|   RUBBERISED LATEX MIX    | <- Primary Absorption
+|---------------------------|
+|         FOAM RESIN        | <- Core for Density
++---------------------------+ <- Inner Hull
+
+Testing Notes:
+- Sound reduction >60% in salt water.
+- Better results when cold.
+- Problem: Organic fibre begins degrading after 12 weeks.
