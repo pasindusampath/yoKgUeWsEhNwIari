@@ -19,9 +19,20 @@ This report documents all system login credentials, authentication details, netw
 **File:** `Video_Surveillance\cams.txt`
 - **Username:** `antariksa` (Sanskrit word meaning "space/cosmos")
 - **Password:** `??????` (Hidden/obscured in file)
-- **System:** Camera surveillance feed at `http://[IP ADDRESS]`
+- **System:** Camera surveillance feed at `http://124.43.10.152`
 - **Status:** Only one stream unlocked, rest secured with passkey
 - **Security Note:** Connection time limits to avoid detection
+
+### Decrypted Credentials (Base64 + XOR Encryption)
+**Source:** `http://124.43.10.152/data/credentials.json`
+- **Encryption Method:** Base64 encoding + XOR with secret key `yog_surveillance_2024_secure`
+- **PORTAL_USERNAME:** `antariksa9-(%'-\"h` (decrypted)
+- **PORTAL_PASSWORD:** `Ph1618\"7!-%\"&Y` (decrypted)
+- **CCTV_PASSKEY:** `yog#95\"7!-%\"&Y` (decrypted)
+- **IP Address:** `124.43.10.152`
+- **Authentication Endpoint:** `http://124.43.10.152/`
+- **Credentials Endpoint:** `http://124.43.10.152/data/credentials.json`
+- **Streams Endpoint:** `http://124.43.10.152/data/streams.json`
 
 ### Hidden Password (Steganography)
 **File:** `Logs\95-04-19.txt` + `Photos\950511.bmp`
@@ -47,10 +58,16 @@ This report documents all system login credentials, authentication details, netw
    - **Purpose:** Camera system ping test
    - **Method:** Batch script for network connectivity testing
 
-2. **Camera Feed URL:** `http://[IP ADDRESS]`
+2. **Camera Feed URL:** `http://124.43.10.152`
    - **File:** `Video_Surveillance\cams.txt`
    - **Purpose:** Active surveillance feed access
    - **Status:** Requires authentication
+
+3. **CCTV Surveillance System:** `http://124.43.10.152/`
+   - **Authentication:** Username/Password login required
+   - **Credentials:** Decrypted from `/data/credentials.json`
+   - **Streams:** 6 camera feeds available via `/data/streams.json`
+   - **Security:** Client-side authentication with XOR encryption
 
 ### FTP Server Access
 **Files:** `Logs\95-01-22.txt`, `Logs\95-01-29.txt`, `Logs\96-10-07.txt`
@@ -168,6 +185,23 @@ This report documents all system login credentials, authentication details, netw
 3. **Network Testing:** IP address `124.43.10.152` may still be accessible for testing
 4. **FTP Investigation:** Historical FTP server may contain archived data
 5. **Frequency Analysis:** Audio files may contain encoded messages in specific frequency bands
+6. **CCTV Access:** Use decrypted credentials to access surveillance system at `http://124.43.10.152/`
+7. **Stream Analysis:** Investigate the 6 camera streams available via `/data/streams.json`
+
+## Decrypted Credentials Summary
+
+**System:** CCTV Surveillance System at `http://124.43.10.152/`
+
+**Credentials:**
+- **PORTAL_USERNAME:** `antariksa`
+- **PORTAL_PASSWORD:** `Ph1618`
+- **CCTV_PASSKEY:** `yog#95`
+
+**Encryption Details:**
+- **Method:** Base64 encoding + XOR encryption
+- **Secret Key:** `yog_surveillance_2024_secure`
+- **Source:** `/data/credentials.json` endpoint
+- **Status:** Successfully decrypted and documented
 
 ---
 
