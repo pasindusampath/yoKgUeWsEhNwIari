@@ -14,10 +14,10 @@ The story was discovered through a series of documents found on an old FTP serve
 
 ## 🔍 The Discovery
 
-- **IP Address:** 124.43.10.152
-- **Username:** antariksa (Sanskrit for "space/cosmos")
+- **IP Address:** 193.32.208.66
+- **Username:** KUWENI (Sanskrit for "space/cosmos")
 - **Password:** WEAREONE
-- **Access Method:** Telnet/FTP
+- **Access Method:** Telnet(PORT 2121)/FTP(PORT 2122)
 - **Discovery Date:** Present day
 
 ---
