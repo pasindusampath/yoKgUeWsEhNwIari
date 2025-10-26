@@ -1,6 +1,3 @@
-# The Story of Yogeshwari: A Ghost in the Machine
-
-*A comprehensive analysis of stealth technology, surveillance, and the woman who became invisible*
 
 ```
              _  __     _   _    __        __   _____ _     _   _          ___           _ 
@@ -12,6 +9,10 @@
 
 ```
 
+
+# The Story of Yogeshwari: A Ghost in the Machine
+
+*A comprehensive analysis of stealth technology, surveillance, and the woman who became invisible*
 
 ---
 
